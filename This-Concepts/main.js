@@ -24,3 +24,4 @@ var bar = function() {
 
 var b = bar( 3 ); // 2 3
 console.log( b ); // 5
+console.log( 4);
